@@ -2,7 +2,7 @@
 - 👀 I’m interested in Java,Microservices
 - 🌱 I’m currently learning AWS,DS Algorithm
 - 💞️ I’m looking to collaborate ...
-- 📫 How to reach me Pranjal Das on LinkedIn
+- 📫 You could reach me on LinkedIn @Pranjal Das
 
 <!---
 pranjaldas/pranjaldas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
