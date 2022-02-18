@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pranjaldas
-- 👀 I’m interested in Java,Microservices
+- 👀 I’m interested in Java, Microservices, CodeIgniter, Laravel etc backend frameworks.
 - 🌱 I’m currently learning AWS,DS Algorithm
 - 💞️ I’m looking to collaborate ...
 - 📫 You could reach me on LinkedIn @Pranjal Das
