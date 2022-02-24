@@ -2,7 +2,7 @@
 - 👀 I’m interested in Java, Microservices, CodeIgniter, Laravel etc backend frameworks.
 - 🌱 I’m currently learning AWS,DS Algorithm
 - 💞️ I’m looking to collaborate ...
-- 📫 You could reach me on LinkedIn @Pranjal Das, <a href="http://pranjalonline.click">My Website Link</a>.
+- 📫 You could reach me on LinkedIn @Pranjal Das, <a href="http://www.pranjalonline.click">My Website Link</a>.
 
 <!---
 pranjaldas/pranjaldas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
