@@ -1,4 +1,4 @@
-<h1> Hi, I am Pranjal, I am a software </h1>
+<h1> Hi, I am Pranjal, I am a software Developer</h1>
 - 👋 Hi, I’m @pranjaldas
 - 👀 I’m interested in Java, Microservices, CodeIgniter, Laravel etc backend frameworks.
 - 🌱 I’m currently learning AWS,DS Algorithm
