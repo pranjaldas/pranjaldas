@@ -1,7 +1,6 @@
 <h1> Hi, I am Pranjal, I am a software Developer</h1>
 - 👋 Hi, I’m @pranjaldas
-- 👀 I’m interested in Java, Microservices, CodeIgniter, Laravel etc backend frameworks.
-- 🌱 I’m currently learning AWS,DS Algorithm
+- 👀 I’m interested in Java, Microservices, Springboot, Laravel etc backend frameworks.
 - 💞️ I’m looking to collaborate ...
 - 📫 You could reach me on LinkedIn @Pranjal Das, <a href="http://www.pranjalonline.click">My Website Link</a>.
 
